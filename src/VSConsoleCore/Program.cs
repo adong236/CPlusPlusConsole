@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleLibrary;
 
 namespace VSOConsoleCore
 {
@@ -6,7 +7,11 @@ namespace VSOConsoleCore
     {
         static void Main(string[] args)
         {
+            var a = new Class1();
+            a.myint = 1;
+            a.hello();
             Console.WriteLine("Hello Nexus!");
+            Console.WriteLine("Hello World!");
         }
     }
 }

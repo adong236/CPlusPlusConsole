@@ -1,0 +1,16 @@
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.exe
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.deps.json
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.runtimeconfig.json
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.runtimeconfig.dev.json
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.dll
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\VSOConsoleCore.pdb
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.csprojAssemblyReference.cache
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.AssemblyInfoInputs.cache
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.AssemblyInfo.cs
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.csproj.CoreCompileInputs.cache
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.dll
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.pdb
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.genruntimeconfig.cache
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\ConsoleLibrary.dll
+F:\workspace\GraceNexusTest\src\VSConsoleCore\bin\Debug\netcoreapp3.1\ConsoleLibrary.pdb
+F:\workspace\GraceNexusTest\src\VSConsoleCore\obj\Debug\netcoreapp3.1\VSOConsoleCore.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\bin\Debug\netcoreapp3.1\ConsoleLibrary.deps.json
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\bin\Debug\netcoreapp3.1\ConsoleLibrary.dll
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\bin\Debug\netcoreapp3.1\ConsoleLibrary.pdb
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.csprojAssemblyReference.cache
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.AssemblyInfoInputs.cache
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.AssemblyInfo.cs
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.csproj.CoreCompileInputs.cache
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.dll
+F:\workspace\GraceNexusTest\src\ConsoleLibrary\obj\Debug\netcoreapp3.1\ConsoleLibrary.pdb
